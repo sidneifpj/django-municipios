@@ -19,8 +19,11 @@ ou
 
 ou baixar o código fonte do github e rodar "setup.py":
 
+     Original
      $ git clone git://github.com/znc-sistemas/django-municipios.git
-
+     
+     Alterado para rodar Django 1.10
+     $ git clone https://github.com/sidneifpj/django-municipios.git
      $ cd django-municipios
 
      $ python setup.py install
